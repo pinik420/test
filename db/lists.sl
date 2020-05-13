@@ -1,7 +1,6 @@
 #SavvyNik
 item1
 item5
-Item6
 %
 #SavvyBob
 item5
@@ -12,4 +11,9 @@ Item8
 #SavvyGeorge
 Item9
 Item11
+%
+#pinik420
+ganja
+bong
+phensy
 %
